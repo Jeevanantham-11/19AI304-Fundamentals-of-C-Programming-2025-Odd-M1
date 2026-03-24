@@ -55,7 +55,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 # IAPR-1- Module 1 - FoC
 # Ex.No:2
   Build a C program to display the value of a macro constant and a constant variable.
-# Date : 
+# Date : 29/03/2026
 # Aim:
   To build a C program that demonstrates the use of macro constants and constant variables.
 # Algorithm:
@@ -100,7 +100,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 # IAPR-1- Module 1 - FoC
 # Ex.No:3
   Build a C program to demonstrate the use of different data types such as int, float, double, and char, and display their values using printf().
-# Date : 
+# Date : 29/03/2026
 # Aim:
   To build a C program that declares variables of various data types—integer, float, double, and character—initializes them, and prints their values on the screen.
 # Algorithm:
@@ -209,7 +209,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 # IAPR-1- Module 1 - FoC
 # Ex.No:5
   Develop a C program to check whether a given character is a vowel, consonant, digit, or special symbol using the ternary operator.
-# Date : 
+# Date : 29/03/2026
 # Aim:
   To develop and implement a C program that classifies a character as a vowel, consonant, digit, or special symbol using the ternary operator.
 # Algorithm:
